@@ -86,14 +86,3 @@ The flowchart provides an overview of the algorithm's workflow. Each step is cru
 
 3. **Visualization**: The final output includes original and processed images for comparison and analysis.
 
-## Contributing
-
-Contributions are welcome! Fork the repository and submit a pull request to enhance functionality or address challenges.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-This README not only explains the algorithm's steps but also provides a framework for creating and including a flowchart to enhance understanding. Adjust the details and flowchart image path based on your specific setup and any further changes you make.
